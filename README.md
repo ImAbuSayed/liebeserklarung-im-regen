@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/liebeserklarung-im-regen/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Liebeserklärung im Regen](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/liebeserklarung-im-regen/) |
+| **Get License** | [Get a Licensing Quote for Liebeserklärung im Regen](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/liebeserklarung-im-regen/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Baby, steig ein, der Regen fällt schwer auf die Stadt
+> Rote Lichter zieh'n vorbei, wir entfliehen der Nacht
+> Dein Blick ist so kühl, doch du weißt, was ich will
+> Der Motor ist laut, doch zwischen uns ist es still
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
