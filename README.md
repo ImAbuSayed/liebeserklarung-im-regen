@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/liebeserklarung-im-regen/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Liebeserklärung im Regen](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/liebeserklarung-im-regen/) |
+| **Get License** | [Music Rights & Licensing for Liebeserklärung im Regen](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/liebeserklarung-im-regen/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `4a0405d33f5c4f7a8a0d442c30b139c6245d2f5597fd63d300a5f28e294c49ce` |
 | **Timestamp** | June 30, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
